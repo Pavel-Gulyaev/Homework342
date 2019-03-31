@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Homework 3-4-2</string>
+    <string name="russian">Русский</string>
+    <string name="english">Английский</string>
+    <string name="ok">OK</string>
+    <string name="text"> Ло́ндон  — столица и крупнейший город Соединённого Королевства Великобритании и Северной Ирландии.</string>
+    <string name="small">мелкие</string>
+    <string name="medium">средние</string>
+    <string name="large">большие</string>
+    <string name="language"> Выберите язык </string>
+    <string name="margin"> Выберите отступы</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Homework 3-4-2</string>
+    <string name="russian">Russian</string>
+    <string name="english">English</string>
+    <string name="ok">OK</string>
+    <string name="text"> London  is the capital and largest city of both England and the United Kingdom.</string>
+    <string name="small">small</string>
+    <string name="medium">medium</string>
+    <string name="large">large</string>
+    <string name="language"> Choose language </string>
+    <string name="margin"> Choose margin</string>
+</resources>
